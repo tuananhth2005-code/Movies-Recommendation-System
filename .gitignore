@@ -1,0 +1,6 @@
+src/frontend/node_modules
+**/__pycache__/
+crawdata/checkpoint.json
+.agents
+src/backend/.env
+node_modules
